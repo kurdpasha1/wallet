@@ -1,3 +1,6 @@
-@echo off 
-title:               WalletMiner   ETH
-python WalletMiner.v.1.6(ETH).py
+@echo off
+cls
+py main.py
+@echo off
+echo CRASHED/Closed
+pause
